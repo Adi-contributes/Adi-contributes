@@ -49,5 +49,7 @@ Outside of internships, I work on passion projects—from AI-powered journaling 
 - 💻 [GitHub](https://github.com/Adi-contributes)
 
 ---
-##![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi-contributes)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi-contributes)
+
+---
 ⭐ *If you like my work, give it a star — it keeps me building!*
